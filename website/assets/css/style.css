@@ -2,9 +2,9 @@ body{
     background: #ffffff;
 }
 #encb1{ 
-    font-size: 125px;  
+    font-size: clamp(40px, 10vw, 160px); 
 }
 #encb2{
-    font-size: 80px;
+    font-size: clamp(20px, 5vw, 80px);
     
 }
